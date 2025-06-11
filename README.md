@@ -4,7 +4,10 @@ b. Dooti
 c. Dooti adalah aplikasi to-do list yang memungkinkan pengguna untuk menambah, melihat, mengedit, dan menghapus tugas. Setiap tugas dapat diatur dengan tanggal, sehingga pengguna dapat mengelola aktivitas harian secara terjadwal dan terorganisir.
 d. Firebase, googlecloud, dan flutter
 e. Buat akun untuk sign up atau log in, halaman utama terdapat kategori to do list kelompoknya, dan bisa menambahkan to do list baru ke kategori tersebut. Halaman kalender bisa memilih tanggal untuk deadline/dilaksanakannya. Terdapat waktu untuk menentukannya. Dan setelah semua to do list/tugas selesai, bisa di hapus dengan carai di ceklist buttonnya.
-f. Tampilan sign up 
+
+
+
+Tampilan sign up 
 <img width="476" alt="dooti1" src="https://github.com/user-attachments/assets/0f7debb4-e49e-426b-b10a-372cdb7f7aaa" />
 
 tampilan halaman utama
